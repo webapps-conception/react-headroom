@@ -1,4 +1,4 @@
-# react-headroom
+# @webappsconception/react-headroom
 Hide your header until you need it.
 
 >💡 **Note Rudy** : This project uses version **v3.2.1** of the official repository [KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom) in **React 19**.
@@ -10,7 +10,7 @@ Hide your header until you need it.
 ## Install
 
 ``` bash
-npm install react-headroom
+npm install @webappsconception/react-headroom
 ```
 
 ## Usage
